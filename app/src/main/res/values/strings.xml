@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_name">Curso DIO</string>
+    <string name="mensagem_home">Bem-vindo! O objetivo principal deste aplicativo é apresentar que o texto é multi linguagem, mostrando a possibilidade de aplicativos terem a linguagem conforme o idioma escolhido no dispositivo.
+Convidamos você a testar esse recurso. Por favor, altere as configurações de idioma do seu celular para português, espanhol ou inglês e veja como nosso aplicativo se adapta automaticamente, proporcionando conteúdo na linguagem escolhida.</string>
 </resources>

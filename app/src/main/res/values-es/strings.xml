@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Curso DIO</string>
+    <string name="mensagem_home">¡Bienvenido! El objetivo principal de esta aplicación es mostrar que el texto es multilingüe, mostrando la posibilidad de que las aplicaciones tengan el idioma según el idioma elegido en el dispositivo.\nTe invitamos a probar esta característica. Por favor cambia la configuración de idioma de tu celular a portugués, español o inglés y observa cómo nuestra aplicación se adapta automáticamente brindando contenido en el idioma elegido.</string>
+</resources>
